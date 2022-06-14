@@ -10,7 +10,7 @@
 ## Youtube tutorial
 
 ## How to configure and run
-- Clone code from Github: git clone https://github.com/teduinternational/eShopSolution
+- Clone code from Github: git clone
 - Open solution eShopSolution.sln in Visual Studio 2019
 - Set startup project is eShopSolution.Data
 - Change connection string in Appsetting.json in eShopSolution.Data project
