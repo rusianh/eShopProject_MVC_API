@@ -1,9 +1,9 @@
 # ASP.NET Core 6 project 
 ## Technologies
-- ASP.NET Core 3.1
-- Entity Framework Core 3.1
+- ASP.NET Core 6
+- Entity Framework Core
 ## Install Tools
-- .NET Core SDK 3.1
+- .NET Core SDK 
 - Git client
 - Visual Studio 2019
 - SQL Server 2019
